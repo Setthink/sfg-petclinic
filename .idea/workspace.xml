@@ -5,12 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03dfb7e6-1c5b-4e6d-b39f-c26337218efb" name="Changes" comment="Deleted iml file from repo">
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgpetclinic/model/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgpetclinic/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgpetclinic/model/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgpetclinic/model/PetType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/sfgpetclinic/model/Vet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +35,8 @@
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
         <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
@@ -55,6 +69,11 @@
     &quot;spring.configuration.checksum&quot;: &quot;34b50ea1da5a5e35989bf7533f970efc&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="guru.springframework.sfgpetclinic.model" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="SfgPetclinicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="sfg-petclinic" />
@@ -76,6 +95,7 @@
       <workItem from="1664539166107" duration="1049000" />
       <workItem from="1664544995184" duration="15000" />
       <workItem from="1664545728672" duration="12000" />
+      <workItem from="1664967271672" duration="231000" />
     </task>
     <task id="LOCAL-00001" summary="Deleted iml file from repo">
       <created>1664539224360</created>
