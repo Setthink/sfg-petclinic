@@ -3,11 +3,12 @@
     <parent>
         <artifactId>sfg-petclinic</artifactId>
         <groupId>guru.springframework</groupId>
-        <version>0.0.1</version>
+        <version>0.0.3</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>pet-clinic-web</artifactId>
+  <version>0.0.1</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -69,4 +70,8 @@
 
 
 
+
+  <scm>
+    <tag>sfg-petclinic-0.0.3</tag>
+  </scm>
 </project>
