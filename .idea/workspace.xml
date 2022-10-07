@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="03dfb7e6-1c5b-4e6d-b39f-c26337218efb" name="Changes" comment="Little Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +65,7 @@
     "last_opened_file_path": "C:/Users/SeTThink/tmp/sfg-petclinic",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "spring.configuration.checksum": "34b50ea1da5a5e35989bf7533f970efc"
+    "spring.configuration.checksum": "95120b30381610a1f1f19c0a025538ad"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -101,6 +103,7 @@
       <workItem from="1664545728672" duration="12000" />
       <workItem from="1664967271672" duration="931000" />
       <workItem from="1665128098567" duration="4296000" />
+      <workItem from="1665137109826" duration="992000" />
     </task>
     <task id="LOCAL-00001" summary="Deleted iml file from repo">
       <created>1664539224360</created>

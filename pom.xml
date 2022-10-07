@@ -15,7 +15,7 @@
 	</parent>
 	<groupId>guru.springframework</groupId>
 	<artifactId>sfg-petclinic</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>sfg-petclinic</name>
 	<description>sfg-petclinic</description>
 	<properties>
@@ -26,18 +26,12 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-				<configuration>
-					<excludes>
-						<exclude>
-							<groupId>org.projectlombok</groupId>
-							<artifactId>lombok</artifactId>
-						</exclude>
-					</excludes>
-				</configuration>
+				<version>${project.parent.version}</version>
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-release-plugin</artifactId>
+				<version>2.5.3</version>
 				<configuration>
 					<goals>install</goals>
 				</configuration>
