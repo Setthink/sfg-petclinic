@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03dfb7e6-1c5b-4e6d-b39f-c26337218efb" name="Changes" comment="Deleted iml file from repo">
+    <list default="true" id="03dfb7e6-1c5b-4e6d-b39f-c26337218efb" name="Changes" comment="Little Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +81,7 @@
   <component name="RunManager">
     <configuration name="SfgPetclinicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="pet-clinic-web" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="SfgPetclinicApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.sfgpetclinic.SfgPetclinicApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,7 +100,7 @@
       <workItem from="1664544995184" duration="15000" />
       <workItem from="1664545728672" duration="12000" />
       <workItem from="1664967271672" duration="931000" />
-      <workItem from="1665128098567" duration="2940000" />
+      <workItem from="1665128098567" duration="4296000" />
     </task>
     <task id="LOCAL-00001" summary="Deleted iml file from repo">
       <created>1664539224360</created>
@@ -117,7 +116,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664539352119</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Little Changes">
+      <created>1665131216791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665131216791</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Little Changes">
+      <created>1665131225506</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665131225506</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Little Changes">
+      <created>1665131230443</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665131230443</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Deleted iml file from repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted iml file from repo" />
+    <MESSAGE value="Little Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Little Changes" />
   </component>
 </project>
