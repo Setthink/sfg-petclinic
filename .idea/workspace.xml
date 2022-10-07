@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03dfb7e6-1c5b-4e6d-b39f-c26337218efb" name="Changes" comment="Deleted iml file from repo">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pet-clinic-data/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pet-clinic-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml" afterDir="false" />
+=======
+>>>>>>> origin/main
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
