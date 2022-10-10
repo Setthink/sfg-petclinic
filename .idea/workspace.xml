@@ -4,31 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03dfb7e6-1c5b-4e6d-b39f-c26337218efb" name="Changes" comment="Deleted iml file from repo">
-<<<<<<< HEAD
+    <list default="true" id="737f13cb-317d-4527-b68b-2a5f34f0a603" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/banner.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml" afterDir="false" />
-=======
->>>>>>> origin/main
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="JUnit5 Test Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -38,25 +21,10 @@
     </option>
     <option name="myId2Visible">
       <map>
-        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
-        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
-        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Use Maven wrapper" />
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="2FUFJ4pqTfHXK8I5BGPb9vkiS7k" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,131 +34,44 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "C:/Users/SeTThink/tmp/sfg-petclinic",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "spring.configuration.checksum": "95120b30381610a1f1f19c0a025538ad"
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "921bb763c77aee29f853016678c416f6"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="guru.springframework.sfgpetclinic.model" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SeTThink\tmp\sfg-petclinic\pet-clinic-web\src\main\resources" />
-      <recent name="C:\Users\SeTThink\tmp\sfg-petclinic\pet-clinic-data\src\main\resources" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="guru.springframework.sfgpetclinic" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.SfgPetclinicApplicationTest.main">
-    <configuration name="SfgPetclinicApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="pet-clinic-web" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="guru.springframework.sfgpetclinic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="guru.springframework.sfgpetclinic" />
-      <option name="MAIN_CLASS_NAME" value="guru.springframework.sfgpetclinic.SfgPetclinicApplicationTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SfgPetclinicApplicationTest.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="pet-clinic-web" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="guru.springframework.sfgpetclinic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="guru.springframework.sfgpetclinic" />
-      <option name="MAIN_CLASS_NAME" value="guru.springframework.sfgpetclinic.SfgPetclinicApplicationTest" />
-      <option name="METHOD_NAME" value="main" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SfgPetclinicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+  <component name="RunManager">
+    <configuration name="SfgPetclinicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="pet-clinic-web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.sfgpetclinic.SfgPetclinicApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.springframework.sfgpetclinic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SfgPetclinicApplicationTest.main" />
-        <item itemvalue="JUnit.SfgPetclinicApplicationTest" />
+        <item itemvalue="Spring Boot.SfgPetclinicApplication" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="03dfb7e6-1c5b-4e6d-b39f-c26337218efb" name="Changes" comment="" />
-      <created>1664538684435</created>
+      <changelist id="737f13cb-317d-4527-b68b-2a5f34f0a603" name="Changes" comment="" />
+      <created>1665409163809</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664538684435</updated>
-      <workItem from="1664538753772" duration="383000" />
-      <workItem from="1664539166107" duration="1049000" />
-      <workItem from="1664544995184" duration="15000" />
-      <workItem from="1664545728672" duration="12000" />
-      <workItem from="1664967271672" duration="931000" />
-      <workItem from="1665128098567" duration="4296000" />
-      <workItem from="1665137109826" duration="1471000" />
+      <updated>1665409163809</updated>
+      <workItem from="1665409165575" duration="413000" />
     </task>
-    <task id="LOCAL-00001" summary="Deleted iml file from repo">
-      <created>1664539224360</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1664539224360</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Deleted iml file from repo">
-      <created>1664539352119</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1664539352119</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Little Changes">
-      <created>1665131216791</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1665131216791</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Little Changes">
-      <created>1665131225506</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1665131225506</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Little Changes">
-      <created>1665131230443</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1665131230443</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,10 +87,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Deleted iml file from repo" />
-    <MESSAGE value="Little Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Little Changes" />
   </component>
 </project>
