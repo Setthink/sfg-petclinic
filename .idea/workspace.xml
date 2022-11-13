@@ -41,7 +41,7 @@
   </component>
   <component name="ProjectId" id="2FwkicuN84uV7qzkZO1HONv7lgQ" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="autoscrollToSource" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -54,7 +54,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SeTThink/tmp/sfg-petclinic&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SeTThink/tmp/sfg-petclinic/pet-clinic-web/src/main/resources/static/resources&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
@@ -64,6 +64,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SeTThink\tmp\sfg-petclinic\pet-clinic-web\src\main\resources\static\resources" />
       <recent name="C:\Users\SeTThink\tmp\sfg-petclinic\pet-clinic-web\src\main\resources" />
       <recent name="C:\Users\SeTThink\tmp\sfg-petclinic\pet-clinic-web\src\main\resources\templates" />
     </key>
@@ -105,6 +106,8 @@
       <workItem from="1666776905587" duration="100000" />
       <workItem from="1666777514728" duration="640000" />
       <workItem from="1666786005672" duration="264000" />
+      <workItem from="1666786282636" duration="215000" />
+      <workItem from="1668333390170" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="Added Banner">
       <created>1665409682586</created>
