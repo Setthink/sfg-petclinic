@@ -5,18 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="737f13cb-317d-4527-b68b-2a5f34f0a603" name="Changes" comment="Added Crud Service, Closes #11">
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/header.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/petclinic.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/responsive.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/less/typography.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/wro/wro.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/wro/wro.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/OwnerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/OwnerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/static/css/petclinic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/fragments/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/fragments/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/fragments/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/fragments/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-guru.springframework.sfgpetclinic.SfgPetclinicApplicationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-guru.springframework.sfgpetclinic.SfgPetclinicApplicationTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/guru.springframework.sfgpetclinic.SfgPetclinicApplicationTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/guru.springframework.sfgpetclinic.SfgPetclinicApplicationTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-guru.springframework.sfgpetclinic.SfgPetclinicApplicationTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/guru.springframework.sfgpetclinic.SfgPetclinicApplicationTest.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +88,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SeTThink\tmp\sfg-petclinic\pet-clinic-web\src\main\resources\static\resources" />
+      <recent name="C:\Users\SeTThink\tmp\sfg-petclinic\pet-clinic-web\src\main\resources\static" />
       <recent name="C:\Users\SeTThink\tmp\sfg-petclinic\pet-clinic-web\src\main\resources" />
+      <recent name="C:\Users\SeTThink\tmp\sfg-petclinic\pet-clinic-web\src\main\resources\static\resources" />
       <recent name="C:\Users\SeTThink\tmp\sfg-petclinic\pet-clinic-web\src\main\resources\templates" />
     </key>
   </component>
@@ -125,6 +133,8 @@
       <workItem from="1666786005672" duration="264000" />
       <workItem from="1666786282636" duration="215000" />
       <workItem from="1668333390170" duration="315000" />
+      <workItem from="1668336803261" duration="1499000" />
+      <workItem from="1668338320680" duration="2827000" />
     </task>
     <task id="LOCAL-00001" summary="Added Banner">
       <created>1665409682586</created>
