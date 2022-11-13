@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="737f13cb-317d-4527-b68b-2a5f34f0a603" name="Changes" comment="Added Crud Service, Closes #11">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-guru.springframework.sfgpetclinic.SfgPetclinicApplicationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-guru.springframework.sfgpetclinic.SfgPetclinicApplicationTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/guru.springframework.sfgpetclinic.SfgPetclinicApplicationTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/guru.springframework.sfgpetclinic.SfgPetclinicApplicationTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +34,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -32,6 +44,8 @@
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
         <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
@@ -40,6 +54,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FwkicuN84uV7qzkZO1HONv7lgQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="showLibraryContents" value="true" />
